@@ -80,7 +80,4 @@ python Etapa3/Material_entrega/scripts/01_preparar_base.py
 
 Depois, abra os notebooks com o kernel `Python (work)` ou com um ambiente que contenha as dependencias listadas em `requirements.txt`.
 
-## Observacao
-
-Os arquivos em `Doc_orientacoes/` ficam fora do repositorio por padrao, pois sao materiais de apoio da disciplina.
 
