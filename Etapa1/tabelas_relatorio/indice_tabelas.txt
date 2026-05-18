@@ -1,0 +1,21 @@
+Tabelas exportadas do relatorio
+
+visao_geral.csv - Visao geral 2024
+pib_tabela_1.csv - Tabela PIB 1 - Comparacao do PIB nominal do Brasil, do Centro-Oeste e de Mato Grosso do Sul (2019-2023)
+pib_tabela_2.csv - Tabela PIB 2 - PIB de Mato Grosso do Sul, crescimento real e resultado primario relativo ao PIB (2019-2023)
+estado_tabela_1.csv - Tabela 1 - Receitas correntes e saldo primario corrente do estado
+estado_tabela_2.csv - Tabela 2 - Receitas de capital e receita primaria total do estado
+estado_tabela_3.csv - Tabela 3 - Despesas correntes do estado
+estado_tabela_4.csv - Tabela 4 - Despesas de capital e despesa primaria total do estado
+estado_tabela_5.csv - Tabela 5 - Consolidacao do resultado primario do estado
+estado_tabela_6.csv - Tabela 6 - Segundo demonstrativo do estado do Mato Grosso do Sul
+cg_tabela_7.csv - Tabela 7 - Receitas correntes e saldo primario corrente de Campo Grande
+cg_tabela_8.csv - Tabela 8 - Receitas de capital e receita primaria total de Campo Grande
+cg_tabela_9.csv - Tabela 9 - Despesas correntes de Campo Grande
+cg_tabela_10.csv - Tabela 10 - Despesas de capital e despesa primaria total de Campo Grande
+cg_tabela_11.csv - Tabela 11 - Consolidacao do resultado primario de Campo Grande
+cg_tabela_12.csv - Tabela 12 - Segundo demonstrativo de Campo Grande
+cenarios.csv - Tabela 13 - Cenarios prospectivos e projecao analitica
+plano_acao.csv - Tabela 14 - Estrategias e plano de acao para sustentabilidade fiscal
+
+tabelas_relatorio.xlsx - consolidado com todas as tabelas

@@ -1,0 +1,12 @@
+pandas
+numpy
+openpyxl
+xlrd
+plotly
+notebook
+ipykernel
+nbformat
+nbconvert
+statsmodels
+scipy
+

@@ -1,0 +1,19 @@
+name: work
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - openpyxl
+  - xlrd
+  - plotly
+  - notebook
+  - ipykernel
+  - nbformat
+  - nbconvert
+  - statsmodels
+  - scipy
+  - pip
+

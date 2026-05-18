@@ -1,0 +1,80 @@
+﻿cod_ibge;municipio;uf;ano;populacao;fonte
+5000203;Água Clara;MS;2025;17901;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5000252;Alcinópolis;MS;2025;4649;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5000609;Amambai;MS;2025;41751;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5000708;Anastácio;MS;2025;24781;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5000807;Anaurilândia;MS;2025;7688;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5000856;Angélica;MS;2025;11308;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5000906;Antônio João;MS;2025;9717;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5001003;Aparecida do Taboado;MS;2025;29826;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5001102;Aquidauana;MS;2025;48689;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5001243;Aral Moreira;MS;2025;11125;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5001508;Bandeirantes;MS;2025;8342;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5001904;Bataguassu;MS;2025;24222;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002001;Batayporã;MS;2025;10947;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002100;Bela Vista;MS;2025;21881;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002159;Bodoquena;MS;2025;8887;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002209;Bonito;MS;2025;25034;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002308;Brasilândia;MS;2025;11833;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002407;Caarapó;MS;2025;32748;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002605;Camapuã;MS;2025;13928;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002704;Campo Grande;MS;2025;962883;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002803;Caracol;MS;2025;5096;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002902;Cassilândia;MS;2025;21565;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5002951;Chapadão do Sul;MS;2025;34606;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003108;Corguinho;MS;2025;4892;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003157;Coronel Sapucaia;MS;2025;14685;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003207;Corumbá;MS;2025;98751;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003256;Costa Rica;MS;2025;28740;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003306;Coxim;MS;2025;33440;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003454;Deodápolis;MS;2025;14317;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003488;Dois Irmãos do Buriti;MS;2025;11521;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003504;Douradina;MS;2025;5768;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003702;Dourados;MS;2025;264017;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003751;Eldorado;MS;2025;11622;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003801;Fátima do Sul;MS;2025;21504;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5003900;Figueirão;MS;2025;3751;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004007;Glória de Dourados;MS;2025;10817;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004106;Guia Lopes da Laguna;MS;2025;10116;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004304;Iguatemi;MS;2025;13960;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004403;Inocência;MS;2025;8764;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004502;Itaporã;MS;2025;25263;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004601;Itaquiraí;MS;2025;20060;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004700;Ivinhema;MS;2025;30001;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004809;Japorã;MS;2025;8441;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5004908;Jaraguari;MS;2025;7480;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005004;Jardim;MS;2025;24504;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005103;Jateí;MS;2025;3596;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005152;Juti;MS;2025;7067;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005202;Ladário;MS;2025;22425;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005251;Laguna Carapã;MS;2025;7037;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005400;Maracaju;MS;2025;48073;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005608;Miranda;MS;2025;26512;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005681;Mundo Novo;MS;2025;20087;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005707;Naviraí;MS;2025;53014;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5005806;Nioaque;MS;2025;13354;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006002;Nova Alvorada do Sul;MS;2025;23409;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006200;Nova Andradina;MS;2025;50848;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006259;Novo Horizonte do Sul;MS;2025;4801;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006275;Paraíso das Águas;MS;2025;5842;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006309;Paranaíba;MS;2025;42638;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006358;Paranhos;MS;2025;13368;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006408;Pedro Gomes;MS;2025;6910;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006606;Ponta Porã;MS;2025;98598;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5006903;Porto Murtinho;MS;2025;12721;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007109;Ribas do Rio Pardo;MS;2025;24152;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007208;Rio Brilhante;MS;2025;40419;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007307;Rio Negro;MS;2025;4921;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007406;Rio Verde de Mato Grosso;MS;2025;20454;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007505;Rochedo;MS;2025;5451;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007554;Santa Rita do Pardo;MS;2025;7165;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007695;São Gabriel do Oeste;MS;2025;32207;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007703;Sete Quedas;MS;2025;11322;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007802;Selvíria;MS;2025;8716;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007901;Sidrolândia;MS;2025;49735;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007935;Sonora;MS;2025;14813;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007950;Tacuru;MS;2025;11205;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5007976;Taquarussu;MS;2025;3740;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5008008;Terenos;MS;2025;18182;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5008305;Três Lagoas;MS;2025;143523;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio
+5008404;Vicentina;MS;2025;6505;IBGE FTP - estimativa_dou - Estimativas populacionais por municipio

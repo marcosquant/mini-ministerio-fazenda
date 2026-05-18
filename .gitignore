@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/editor state
+.vscode/
+.idea/
+.claude/
+.temp/
+CLAUDE.md
+
+# OS/Office temporary files
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+
+# Project temporary outputs
+**/temp/
+**/Output/temp/
+**/Material_entrega/temp/
+
+# Course orientation exports kept local unless explicitly released
+**/Doc_orientacoes/
+
+# Stages not in the initial repository scope
+Etapa4/
+
+# Local PowerShell/Windows cache artifact accidentally exported in Etapa1
+Etapa1/Microsoft/
+
