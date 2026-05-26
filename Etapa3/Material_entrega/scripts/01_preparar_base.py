@@ -3,7 +3,7 @@ from __future__ import annotations
 from pipeline.area import obter_area_municipios
 from pipeline.config import CONFIG, PATHS
 from pipeline.geo_distance import obter_distancia_capital
-from pipeline.populacao import ANOS_DEFAULT, obter_populacao
+from pipeline.populacao import obter_populacao
 from pipeline.readers import ler_despesas_siconfi, ler_pib_municipal, ler_receitas_siconfi
 from pipeline.transformations import preparar_base_final
 from pipeline.utils import imprimir_resumo_base
@@ -17,7 +17,7 @@ def main() -> None:
     pib       = ler_pib_municipal()
     area      = obter_area_municipios()
     distancia = obter_distancia_capital()
-    populacao = obter_populacao(anos=ANOS_DEFAULT, uf=CONFIG.uf)
+    populacao = obter_populacao(uf=CONFIG.uf)
 
     base = preparar_base_final(receitas, despesas, pib, area, distancia, populacao)
 

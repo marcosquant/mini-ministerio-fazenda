@@ -151,30 +151,33 @@ def integrar_distancia(base: pd.DataFrame, distancia: pd.DataFrame | None) -> pd
     return base.merge(distancia, on="cod_ibge", how="left")
 
 
-def integrar_populacao_ibge(
-    base: pd.DataFrame, pop_ibge: pd.DataFrame
+def integrar_populacao_externa(
+    base: pd.DataFrame, populacao_externa: pd.DataFrame
 ) -> pd.DataFrame:
     pop = (
-        pop_ibge[["ano", "cod_ibge", "populacao"]]
+        populacao_externa[["ano", "cod_ibge", "populacao"]]
         .copy()
         .assign(
             cod_ibge=lambda d: d["cod_ibge"].astype("Int64"),
             ano=lambda d: d["ano"].astype("Int64"),
         )
     )
-    check = base.merge(pop, on=["ano", "cod_ibge"], suffixes=("_siconfi", "_ibge"))
+    check = base.merge(pop, on=["ano", "cod_ibge"], suffixes=("_siconfi", "_externa"))
     mascara = (
         check["populacao_siconfi"].notna()
-        & check["populacao_ibge"].notna()
+        & check["populacao_externa"].notna()
         & (
-            (check["populacao_siconfi"] - check["populacao_ibge"]).abs()
+            (check["populacao_siconfi"] - check["populacao_externa"]).abs()
             / check["populacao_siconfi"].abs()
             > 0.05
         )
     )
     n_div = int(mascara.sum())
     if n_div > 0:
-        print(f"  [AVISO] {n_div} obs com divergencia >5% entre SICONFI e IBGE")
+        print(
+            "  [AVISO] "
+            f"{n_div} obs com divergencia >5% entre SICONFI e populacao externa"
+        )
 
     base = base.drop(columns=["populacao"])
     return base.merge(pop, on=["ano", "cod_ibge"], how="left")
@@ -192,7 +195,7 @@ def preparar_base_final(
     base = integrar_area(base, area)
     base = integrar_distancia(base, distancia)
     if populacao is not None:
-        base = integrar_populacao_ibge(base, populacao)
+        base = integrar_populacao_externa(base, populacao)
     base = marcar_pequenos_municipios(base)
     base = calcular_variaveis_modelo(base)
     base = base[
